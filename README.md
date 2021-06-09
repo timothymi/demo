@@ -1,8 +1,8 @@
-pring Boot Scala Example
+Spring Boot Java Example
 
 [![Build Status](https://travis-ci.org/jecklgamis/spring-boot-scala-example.svg?branch=master)](https://travis-ci.org/jecklgamis/spring-boot-scala-example)
 
-This is an example Spring Boot app using Scala.
+This is an example Spring Boot app using Java.
 
 * Uses Jetty web container
 * Starts HTTP and HTTPs listener
@@ -12,7 +12,7 @@ This is an example Spring Boot app using Scala.
 Ensure you have Java 8 or later.
 ```
 ./mvnw clean package
-java -jar target/spring-boot-scala-example.jar
+java -jar target/spring-boot-java-example.jar
 ```
 
 ## Running The App Using Docker
